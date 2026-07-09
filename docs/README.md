@@ -2,13 +2,13 @@
 
 SocialLink resource for footer/nav profile links.
 
-- **Source:** https://github.com/fadymondy/social
+- **Source:** https://github.com/togo-framework/social
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/social
+togo install togo-framework/social
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

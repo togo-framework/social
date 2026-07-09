@@ -1,4 +1,4 @@
-module github.com/fadymondy/social
+module github.com/togo-framework/social
 
 go 1.26.4
 
